@@ -8,6 +8,6 @@ Elfin is a high-performance Micro-ORM that supports SQL Server, MySQL, and Acces
   - Support for multiple entities including operations in transactions
 
 ### Tutorial
-See [KUBERNETES.md](https://github.com/wilsonfanfan/Elfin/blob/master/ElfinTutorial.docx?raw=true)
+See [ElfinTutorial](https://github.com/wilsonfanfan/Elfin/blob/master/ElfinTutorial.docx?raw=true)
 
 
